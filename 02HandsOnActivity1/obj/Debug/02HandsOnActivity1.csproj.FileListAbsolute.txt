@@ -1,0 +1,12 @@
+C:\Users\JBICAPATE\source\repos\02HandsOnActivity1\02HandsOnActivity1\bin\Debug\02HandsOnActivity1.exe.config
+C:\Users\JBICAPATE\source\repos\02HandsOnActivity1\02HandsOnActivity1\bin\Debug\02HandsOnActivity1.exe
+C:\Users\JBICAPATE\source\repos\02HandsOnActivity1\02HandsOnActivity1\bin\Debug\02HandsOnActivity1.pdb
+C:\Users\JBICAPATE\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\02HandsOnActivity1.csprojAssemblyReference.cache
+C:\Users\JBICAPATE\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\_02HandsOnActivity1.CashierWindowQueuingForm.resources
+C:\Users\JBICAPATE\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\_02HandsOnActivity1.QueuingForm.resources
+C:\Users\JBICAPATE\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\_02HandsOnActivity1.Properties.Resources.resources
+C:\Users\JBICAPATE\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\02HandsOnActivity1.csproj.GenerateResource.cache
+C:\Users\JBICAPATE\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\02HandsOnActivity1.csproj.CoreCompileInputs.cache
+C:\Users\JBICAPATE\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\02HandsOnActivity1.exe
+C:\Users\JBICAPATE\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\02HandsOnActivity1.pdb
+C:\Users\JBICAPATE\source\repos\02HandsOnActivity1\02HandsOnActivity1\obj\Debug\_02HandsOnActivity1.CustomerView.resources
